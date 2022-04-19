@@ -1,6 +1,7 @@
 # Sanzo Wada's Color Combinations in Sketch
 
-**A Dictionary of Color Combinations** is a book of sample color combinations created by the Japanese artist Sanzo Wada in 1918.
+Between 1933 and 1934, Japanese artist [Sanzo Wada](https://en.wikipedia.org/wiki/Sanzo_Wada) published 6-volumes of color studies, documenting over a thousand color combinations. 
+**A Dictionary of Color Combinations** is a book of sample color combinations based on his work.
 
 The book provides sample color combinations for art students and professionals to use. It has been credited with being the first book to catalog color schemes in such a manner and has been compared to modern graphic design resources.
 
